@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item2{
+    background-image: url(./images/item2.png);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    
+}
